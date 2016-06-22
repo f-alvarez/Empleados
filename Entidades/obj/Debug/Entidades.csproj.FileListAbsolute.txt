@@ -1,0 +1,10 @@
+C:\Users\Matias\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Documents\Visual Studio 2012\Projects\Empleados\Entidades\bin\Debug\Entidades.dll
+C:\Users\Matias\Documents\Visual Studio 2012\Projects\Empleados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Matias\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.dll
+C:\Users\Matias\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\Empleados\Entidades\bin\Debug\Entidades.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\Empleados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\Empleados\Entidades\obj\Debug\Entidades.pdb
